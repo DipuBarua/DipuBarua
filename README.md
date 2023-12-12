@@ -36,7 +36,7 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 ***GitHub Trends:***
 <br>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/?user=DipuBarua/svg/avgupta456/langs)](https://githubtrends.io)
 
 ***Recent Projects📌:***
 
