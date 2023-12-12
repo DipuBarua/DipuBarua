@@ -6,7 +6,8 @@
 I am regularly working on web development. I love to code in JavaScript. Focused on MERN Stack projects. Always interested in learning new technology and ready to collaborate.
 Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a Web Development Course from [Programming Hero](https://www.programming-hero.com/).
 
-
+<br>
+<br>
 
 ***Tech Stack:***
 
@@ -19,12 +20,14 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 <br>
 <br>
 
-
 ***Current Status:***
-<br>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=DipuBarua&theme=dark" />
   </a>
 </p>
 
+Recent Projects:
+<br>
+### [Bistro Boss Restaurant](https://bistro-boss-restaurant-4ea5b.web.app/)
