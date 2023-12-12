@@ -20,7 +20,6 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 </p>
 
 <br>
-<br>
 
 ***GitHub Stats:***
 
