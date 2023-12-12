@@ -32,8 +32,8 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=dark&background=ffffff) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=graywhite) 
 
 <br>
 
