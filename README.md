@@ -31,8 +31,12 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 </p>
 
 <br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipuBarua&theme=default) 
+<p align="center">
+  <a href="">
+    <img src="[https://streak-stats.demolab.com/?user=DipuBarua&theme=dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark)" />
+  </a>
+</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=default) 
 
 <br>
