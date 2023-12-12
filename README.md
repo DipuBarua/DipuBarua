@@ -1,3 +1,10 @@
+<p align="center">
+<img width="full" height="full" src="https://www.canva.com/design/DAF2zaC2Dcg/WCO_OtizmDSa5-65nq8jew/edit?utm_content=DAF2zaC2Dcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="">
+</p>
+
+<br>
+<br>
+
 <h1 align="center"> Hi,👋 I'm Dipankar Barua </h1>
 
 <br>
@@ -15,7 +22,7 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,firebase,js,mongodb,tailwind,jwt&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,firebase,js,mongodb,tailwind,jwt&perline=2" />
   </a>
 </p>
 
