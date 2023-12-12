@@ -24,7 +24,7 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 ***GitHub Stats:***
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=DipuBarua&theme=dark" />
   </a>
