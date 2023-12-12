@@ -31,12 +31,10 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 </p>
 
 <br>
-<p align="center">
-  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark">
-  </a>
-</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=default) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=dark) 
 
 <br>
 
