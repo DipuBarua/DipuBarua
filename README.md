@@ -22,7 +22,7 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 <br>
 <br>
 
-***Current Status:***
+***Current Stats:***
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -32,6 +32,11 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 <br>
 <br>
+
+
+***GitHub Trends:***
+<br>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 ***Recent Projects📌:***
 
