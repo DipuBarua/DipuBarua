@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,👋 I'm **Dipankar Barua** </h1>
+<h1 align="center"> Hi,👋 I'm Dipankar Barua </h1>
 
 
 <p align="center"> I am regularly working on web development. I love to code in JavaScript. Focused on MERN Stack projects. Always interested in learning new technology and ready to collaborate.
