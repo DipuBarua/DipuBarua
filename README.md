@@ -32,8 +32,7 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 <br>
 <p align="center">
-  <a href="">
-    <img src="[https://streak-stats.demolab.com/?user=DipuBarua&theme=dark](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark)" />
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark">
   </a>
 </p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DipuBarua&theme=dark) 
