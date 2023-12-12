@@ -16,3 +16,6 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
   </a>
 </p>
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DipuBarua&theme=dark)](https://git.io/streak-stats)
