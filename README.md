@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://www.canva.com/design/DAF2zaC2Dcg/QjkA4AdvjhziTjv1jcQaUA/view?utm_content=DAF2zaC2Dcg&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+  <img width="460" height="300" src="https://i.ibb.co/BqfMWTy/web-DEVeloper.png">
 </p>
 
 <br>
