@@ -1,5 +1,7 @@
 <h1 align="center"> Hi,👋 I'm Dipankar Barua </h1>
 
+<br>
+<br>
 
 ***About me:***
 
@@ -31,14 +33,8 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 <br>
 <br>
 
-***Recent Projects:***
-<br>
-📌
-### 1. [Bistro Boss Restaurant](https://bistro-boss-restaurant-4ea5b.web.app/)
-<br>
+***Recent Projects📌:***
 
-### 📌2. [Newspaper-Fullstack-Website](https://newspaper-fullstack.web.app/)
-<br>
+### [Newspaper-Fullstack-Website](https://newspaper-fullstack.web.app/)
 
-### 📌3. [Homegrown Produce Exchange](https://homegrown-produce-exchange.web.app/)
 
