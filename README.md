@@ -28,6 +28,16 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
   </a>
 </p>
 
-Recent Projects:
 <br>
-### [Bistro Boss Restaurant](https://bistro-boss-restaurant-4ea5b.web.app/)
+<br>
+
+***Recent Projects:***
+<br>
+### 📌1. [Bistro Boss Restaurant](https://bistro-boss-restaurant-4ea5b.web.app/)
+<br>
+
+### 📌2. [Newspaper-Fullstack-Website](https://newspaper-fullstack.web.app/)
+<br>
+
+### 📌3. [Homegrown Produce Exchange](https://homegrown-produce-exchange.web.app/)
+
