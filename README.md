@@ -1,10 +1,11 @@
-<h1 align="center"> Hi,👋 this is **Dipankar Barua** </h1>
-
-I am regularly working on web development. I love to code in JavaScript. Focused on MERN Stack projects. Always interested in learning new technology and ready to collaborate.
-Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a Web Development Course from “Programming Hero”.
+<h1 align="center"> Hi,👋 I'm **Dipankar Barua** </h1>
 
 
-**DipuBarua/DipuBarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> I am regularly working on web development. I love to code in JavaScript. Focused on MERN Stack projects. Always interested in learning new technology and ready to collaborate.
+Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a Web Development Course from “Programming Hero”.</p>
+
+
+
 
 Here are some ideas to get you started:
 
