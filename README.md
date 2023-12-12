@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" src="https://www.canva.com/design/DAF2zaC2Dcg/WCO_OtizmDSa5-65nq8jew/edit?utm_content=DAF2zaC2Dcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="">
+  <img src="https://www.canva.com/design/DAF2zaC2Dcg/WCO_OtizmDSa5-65nq8jew/edit?utm_content=DAF2zaC2Dcg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="">
 </p>
 
 <br>
