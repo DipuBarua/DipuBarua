@@ -22,7 +22,7 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 <br>
 <br>
 
-***Current Stats:***
+***GitHub Stats:***
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -31,12 +31,11 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 </p>
 
 <br>
-<br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DipuBarua&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=default) 
 
-***GitHub Trends:***
 <br>
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DipuBarua&theme=dark
 
 ***Recent Projects📌:***
 
