@@ -23,8 +23,6 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 <br>
 <p align="center">
-  <a href="">
     <img src="https://streak-stats.demolab.com/?user=DipuBarua&theme=dark)](https://git.io/streak-stats" />
-  </a>
 </p>
 
