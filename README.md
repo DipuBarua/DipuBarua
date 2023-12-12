@@ -18,4 +18,11 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DipuBarua&theme=dark)](https://git.io/streak-stats)
+
+
+<br>
+<br>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
