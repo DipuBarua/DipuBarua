@@ -45,6 +45,6 @@ Recently, I completed my studies on B.Sc. in CSE. Apart from that, I completed a
 
 ***Recent Projects📌:***
 
-### [Newspaper-Fullstack-Website](https://newspaper-fullstack.web.app/)
+### [Hostel Meals Management System](https://hostel-meals-management.web.app/)
 
 
